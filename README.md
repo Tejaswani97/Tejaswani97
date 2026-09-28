@@ -30,7 +30,7 @@ Currently building an AI-enabled application.
 
 ### 🎯 Goals
 
-Preparing for **Software Development Engineer internships and campus placements** while continuously improving my problem-solving and development skills.
+Preparing for **Software Development Engineer and Software Engineering Intern roles at product-focused and high-tech companies**, while continuously improving my problem-solving, system design, and software development skills.
 
 ### 📫 Connect With Me
 
@@ -38,17 +38,3 @@ Preparing for **Software Development Engineer internships and campus placements*
 [LinkedIn](https://www.linkedin.com/in/tejaswani-chinni-b02409340) ·
 [tejaswani.chinni7@gmail.com](mailto:tejaswani.chinni7@gmail.com)
 
-<!--
-**Tejaswani97/Tejaswani97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
