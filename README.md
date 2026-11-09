@@ -13,9 +13,9 @@ Aspiring **Backend Engineer** who enjoys designing **REST APIs, working with dat
 
 **Backend:** Node.js, Express.js, Spring Boot, REST APIs
 **Databases:** MongoDB, MySQL, SQLite
-**Languages:** JavaScript, Java, SQL, Python
+**Languages:** JavaScript, Java, SQL
 **Frontend:** React, HTML, CSS
-**Tools:** Git, GitHub, JDBC, Postman
+**Tools:** Git, GitHub, JDBC
 
 ### 📌 Projects
 
