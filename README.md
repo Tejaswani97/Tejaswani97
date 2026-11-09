@@ -1,6 +1,6 @@
 # Hi, I'm Chinni Tejaswani 👋
 
-Aspiring **Backend Engineer** who enjoys designing **REST APIs, working with databases, and building scalable server-side applications** using the **MERN stack** and **Java Spring Boot**.
+Aspiring **Backend Engineer** who enjoys designing **REST APIs, working with databases, and building scalable server-side applications** using the **MERN stack** .
 
 ### 🚀 Currently
 
